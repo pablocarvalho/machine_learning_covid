@@ -1,0 +1,866 @@
+,DE_EXAME,DE_ANALITO
+0,Peptideo Natriuretico Tipo B (Bnp),BNP
+1,Sodio,Sodio
+2,Creatinina,Creatinina
+3,"Hemograma, sangue total",Hemoglobina
+4,"Hemograma, sangue total",VCM
+5,"Hemograma, sangue total",Leucocitos
+6,"Hemograma, sangue total",Neutrofilos
+7,"Hemograma, sangue total",Eosinofilos
+8,"Hemograma, sangue total",Basofilos
+9,"Hemograma, sangue total",Linfocitos
+10,"Hemograma, sangue total",Monocitos
+11,"Hemograma, sangue total",Plaquetas
+12,"Hemograma, sangue total",Eritrocitos
+13,"Hemograma, sangue total",Hematocrito
+14,"Hemograma, sangue total",HCM
+15,"Hemograma, sangue total",CHCM
+16,"Hemograma, sangue total",RDW
+17,"Hemograma, sangue total",Neutrofilos (%)
+18,"Hemograma, sangue total",Eosinofilos (%)
+19,"Hemograma, sangue total",Basofilos (%)
+20,"Hemograma, sangue total",Linfocitos (%)
+21,"Hemograma, sangue total",Monocitos (%)
+22,"Hemograma, sangue total","Morfologia, SVE"
+23,"Hemograma, sangue total","Morfologia, SB"
+24,"Hemograma, sangue total",Volume plaquetario medio
+25,Troponina,Troponina
+26,Creatinofosfoquinase - CK-MB,CK-MB
+27,D. Dimeros(Dimeros De Fibrina),"Dimeros D, quant"
+28,Creatinofosfoquinase Cpk-Ck,CK
+29,"Calculo da Estimativa da Taxa, de Filtracao Glomular, soro",Creatinina
+30,"Calculo da Estimativa da Taxa, de Filtracao Glomular, soro",Calculo p/afrodescendente CKD-EPI
+31,"Calculo da Estimativa da Taxa, de Filtracao Glomular, soro",Calculo p/nao afrodescendente CKD-EPI
+32,"Calculo da Estimativa da Taxa, de Filtracao Glomular, soro",Calculo p/afrodescendente MDRD
+33,"Calculo da Estimativa da Taxa, de Filtracao Glomular, soro",Calculo p/nao afrodescendente MDRD
+34,Ureia,Ureia
+35,Potassio,Potassio
+36,"Proteina C Reativa, plasma",Proteina C-Reativa
+42,Hemograma,Hemoglobina
+43,Hemograma,VCM
+44,Hemograma,Leucocitos
+45,Hemograma,Neutrofilos
+46,Hemograma,Eosinofilos
+47,Hemograma,Basofilos
+48,Hemograma,Linfocitos
+49,Hemograma,Monocitos
+50,Hemograma,Plaquetas
+51,Hemograma,Eritrocitos
+52,Hemograma,Hematocrito
+53,Hemograma,HCM
+54,Hemograma,CHCM
+55,Hemograma,RDW
+56,Hemograma,Neutrofilos (%)
+57,Hemograma,Eosinofilos (%)
+58,Hemograma,Basofilos (%)
+59,Hemograma,Linfocitos (%)
+60,Hemograma,Monocitos (%)
+61,Hemograma,"Morfologia, SVE"
+62,Hemograma,"Morfologia, SB"
+63,Hemograma,Volume plaquetario medio
+65,Desidrogenase Latica (DHL/L),DHL
+73,"COVID-19-PCR para SARS-COV-2, Varios Materiais (Fleury)",Coronavirus (2019-nCoV)
+74,"COVID-19-PCR para SARS-COV-2, Varios Materiais (Fleury)",Material (2019-nCoV) 
+75,Bilirrubinas Total E Fracoes,Bilirrubina Direta
+76,Bilirrubinas Total E Fracoes,Bilirrubina Total
+77,Bilirrubinas Total E Fracoes,Bilirrubina Indireta
+78,Tgp,ALT (TGP)
+79,Tgo,AST (TGO)
+225,Magnesio,Magnesio
+230,Gasometria Venosa,pH venoso
+231,Gasometria Venosa,pO2 venoso
+232,Gasometria Venosa,pCO2 venoso
+233,Gasometria Venosa,HCO3 venoso
+234,Gasometria Venosa,BE venoso
+235,Gasometria Venosa,Sat O2 venoso
+295,"T4L, livre, soro",T4 Livre
+303,"Deteccao de virus respiratorio, por PCR, Varios Materiais",Virus Respiratorios - Deteccao molecular
+304,Tempo Tromb.Parcial Ativada,TTPA
+305,Tempo Tromb.Parcial Ativada,TTPA - Paciente/Normal
+306,Tempo Tromb.Parcial Ativada,TTPA-Normal do dia
+307,Tempo E Ativid. Protrombina (Tp),TP/INR
+308,Tempo E Ativid. Protrombina (Tp),Tempo de Protrombina
+310,Fosfatase Alcalina,Fosfatase Alcalina
+311,Gama Gt,Gama-GT
+337,Tsh - Hormonio Tiroestimulante,TSH
+345,"Glicemia, plasma",Glicose
+348,"Hemocultura para aerobios, por maldi-tof, varios materiais","Hemocultura para aerobios, por maldi-tof, varios materiais"
+349,"Hemocultura para anaerobios, por maldi-tof, varios materiais","Hemocultura para anaerobios, por maldi-tof, varios materiais"
+350,Lactato - Kit Urg,"Lactato, sangue"
+357,"Antigeno, Influenza, Teste Rapido (AGINFLU)",Influenza A e B - teste rapido
+370,Amilase,183
+446,Fosforo,Fosforo
+472,Calcio Ionizavel,Calcio Ionizavel
+607,Deteccao de Coronavirus (NCoV-2019) POR PCR (Anatomia Patologica),Deteccao de Coronavirus (NCoV-2019) POR PCR (Anatomia Patologica)
+702,Creatino Fosfoquinase (Cpk),CK
+714,"Urina, Cultura - Jato Medio",Cultura de Urina
+715,PSA TOTAL - Antigeno Prostatico Especifico Total ,PSA Total
+718,Urina Tipo I - Jato Medio,"pH, urina"
+719,Urina Tipo I - Jato Medio,"Densidade, urina"
+720,Urina Tipo I - Jato Medio,"Proteinas, urina isolada"
+721,Urina Tipo I - Jato Medio,"Glicose, urina isol"
+722,Urina Tipo I - Jato Medio,"C.Cetonicos, urina"
+723,Urina Tipo I - Jato Medio,"Bilirrubina,urina"
+724,Urina Tipo I - Jato Medio,"Urobilinogenio,urina"
+725,Urina Tipo I - Jato Medio,"Leucocitos, urina"
+726,Urina Tipo I - Jato Medio,"Eritrocitos, urina"
+727,Urina Tipo I - Jato Medio,"Aspecto, urina"
+728,Urina Tipo I - Jato Medio,"Cor, urina"
+729,Urina Tipo I - Jato Medio,"Cilindros, urina"
+730,Urina Tipo I - Jato Medio,Celulas Epiteliais
+731,Urina Tipo I - Jato Medio,"Nitrito, urina"
+734,PSA LIVRE - Antigeno Prostatico Especifico Livre,PSA Total
+735,PSA LIVRE - Antigeno Prostatico Especifico Livre,PSA Livre/Total
+736,PSA LIVRE - Antigeno Prostatico Especifico Livre,PSA Livre
+744,"Urina, Cultura - Jato Medio","Urina, Cultura - Jato Medio - Parcial"
+814,"Sorologia - Coronavirus, IgA","Covid 19, Anticorpos IgA, indice"
+830,Hemoglobina Glicada,Hemoglobina Glicada
+831,"Sorologia - Coronavirus, IgG","Covid 19, Anticorpos IgG"
+832,"Sorologia - Coronavirus, IgG","Covid 19, Anticorpos IgG, indice"
+833,"Sorologia - Coronavirus, IgA","Covid 19, Anticorpos IgA"
+834,Colesterol Total e Fracoes,LDL Colesterol
+835,Colesterol - Fracao HDL,Hdl-Colesterol
+836,Colesterol Total - URG,Colesterol total
+837,Triglicerides,Triglicerides
+838,Colesterol - Fracao VLDL,V-Colesterol
+865,Lactato,"Lactato, plasma"
+964,Gasometria Arterial,pH arterial
+965,Gasometria Arterial,pO2 arterial
+966,Gasometria Arterial,pCO2 arterial
+967,Gasometria Arterial,HCO3 arterial
+968,Gasometria Arterial,BE arterial
+969,Gasometria Arterial,Sat O2 arterial
+982,"Fibrinogenio, Dosagem Do",Fibrinogenio
+1036,Albumina,Albumina
+1037,"Proteinas Totais, Plasma, Urgente",Proteinas
+1038,Lipase (urgencia),Lipase
+1041,Cloro,Cloro
+1085,"Potassio, sangue total","Potassio, sangue total"
+1086,"Calcio Ionizado, sangue total","Calcio Ionizado, sangue"
+1087,Lactato - URG,"Lactato, sangue"
+1094,"Cloro, urgente, sangue total","Cloro, sangue"
+1121,Hemograma,Bastonetes
+1122,Hemograma,Segmentados
+1134,Hemograma,Bastonetes (%)
+1135,Hemograma,Segmentados (%)
+1214,Hemograma,Promielocitos
+1215,Hemograma,Mielocitos
+1216,Hemograma,Metamielocitos
+1230,Hemograma,Promielocitos (%)
+1231,Hemograma,Mielocitos (%)
+1232,Hemograma,Metamielocitos (%)
+1262,Grupo Sanguineo Abo,Grupo Sanguineo
+1263,Grupo Sanguineo Abo,Fator Rh
+1393,"Ferritina, Dosagem",Ferritina
+1880,"Hemocultura para fungos, por maldi-tof, varios materiais","Hemocultura para fungos, por maldi-tof, varios materiais"
+1889,"Pro-calcitonina, Dosagem no Plasma",Procalcitonina
+1902,Cultura Quantitativa (Sec. Traqueal E Lavado),Cultura Quantitativa - Parcial
+1903,Cultura Quantitativa (Sec. Traqueal E Lavado),Cultura Quantitativa
+2217,Fator Reumatoide (Latex),Fator Reumatoide
+2219,"Acido Ascorbico, plasma","acido ascorbico, plasma"
+2220,Complemento C3,C3
+2221,Complemento C4,C4
+2222,Prolactina,Prolactina
+2223,"Fator Antinucleo, Anticorpos totais, soro",FAN - Nuclear
+2224,"Fator Antinucleo, Anticorpos totais, soro",FAN - Nucleolar
+2225,"Fator Antinucleo, Anticorpos totais, soro",FAN - P. Metafasica
+2226,"Fator Antinucleo, Anticorpos totais, soro",FAN - Citoplasmatico
+2227,"Fator Antinucleo, Anticorpos totais, soro",FAN - Ap. Mitotico
+2228,Chumbo,"Chumbo, sangue"
+2229,Ferro Serico,Ferro
+2230,"Vitamina B-12, Dosagem",Vitamina B-12
+2232,"Lh,  Hormonio Luteinizante",LH
+2233,Cortisol Basal,Cortisol
+2234,Estradiol,Estradiol
+2235,"Fsh, 1.Amostra",FSH
+2236,Acido Folico,acido folico
+2237,Insulina,Insulina
+2238,Insulina,HOMA-IR
+2239,Insulina,IMC - Indice de massa corporal
+2240,Zinco,Zinco
+2241,Aluminio,Aluminio
+2242,Testosterona,Testosterona
+2243,Globulina Ligadora Hormonio Sexual,SHBG
+2244,Testosterona Livre,Testosterona livre
+2245,Eletroforese de Proteinas,Eletro - Albumina
+2246,Eletroforese de Proteinas,Eletro - Alfa 1 glob
+2247,Eletroforese de Proteinas,Eletro - Alfa 2 glob
+2248,Eletroforese de Proteinas,Eletro - Beta 1 glob
+2249,Eletroforese de Proteinas,Eletro - Beta 2 glob
+2250,Eletroforese de Proteinas,Eletro - Gama glob
+2251,Eletroforese de Proteinas,Eletro - Comp Monocl
+2252,Eletroforese de Proteinas,Eletro - Albumina/Gl
+2253,Eletroforese de Proteinas,Eletro - Observacao
+2258,Cobre,Cobre
+2259,"Proteinas Totais, Soro",Proteinas
+2260,"Protrombina, Tempo de, plasma",TP/INR
+2261,"Protrombina, Tempo de, plasma",Tempo de Protrombina
+2262,"Tromboplastina Parcial Ativada, Tempo de, plasma",TTPA
+2263,"Tromboplastina Parcial Ativada, Tempo de, plasma",TTPA-Paciente/Normal
+2264,"Tromboplastina Parcial Ativada, Tempo de, plasma",TTPA-Normal do dia
+2269,Complemento/O Hemol.Total/Ch50,Complemento Total
+2270,"Vitamina D, 25 hidroxi (Vitamina D3), Soro",25OH-Vitamina D Total
+2272,"Ro/SSA e La/SSB, Anticorpos, Soro",Ro/SS-A
+2273,"Ro/SSA e La/SSB, Anticorpos, Soro",La/SS-B
+2274,SSA/RO Anticorpos,Ro/SS-A
+2275,SSB/LA Anticorpos,La/SS-B - ensaio imunoenzimatico
+2293,Colesterol - Fracao LDL,LDL Colesterol
+2308,Proteinas Totais e Fracoes - PTF,Proteinas
+2309,Proteinas Totais e Fracoes - PTF,Albumina
+2310,Proteinas Totais e Fracoes - PTF,Globulinas
+2311,Proteinas Totais e Fracoes - PTF,Albumina/Globulina
+2314,acido urico,acido urico
+2327,"Vitamina B-6, Dosagem","Vitamina B6, sangue"
+2328,Vitamina B1 (Tiamina),"Vitamina B1, sangue"
+2329,Homocisteina,Homocisteina
+2402,"Sodio, Soro",Sodio
+2403,"Tireostimulante (Tsh), Hormonio (Rie)",Hormonio Tiroestimulante
+2404,Colesterol Total,Colesterol total
+2405,Trigliceridios (Tg ),Triglicerides
+2406,Colesterol - Fracao LDL,VLDL-Colesterol
+2407,"Colesterol nao-HDL, soro","Colesterol nao-HDL, soro"
+2435,Potassio (K),Potassio
+2436,Transaminase Piruvica ( Tgp ),ALT (TGP)
+2437,"Ureia, soro",Ureia
+2438,Magnesio (Mg),Magnesio
+2439,"Bilirrubinas, soro",Bilirrubina Direta
+2440,"Bilirrubinas, soro",Bilirrubina Total
+2441,"Bilirrubinas, soro",Bilirrubina Indireta
+2442,"Calcio, soro",Calcio
+2443,"Creatinina, soro",Creatinina
+2444,"Fosfatase Alcalina, soro",Fosfatase Alcalina
+2445,Gama - Glutamil Transferase  (Ggt),Gama-GT
+2446,Glicemia de Jejum,Glicose
+2448,Colesterol - Fracao HDL,HDL-Colesterol
+2451,T3 - Tri Iodotironina,T3
+2491,Transaminase Oxalacetica ( Tgo ),AST (TGO)
+2493,Lipase,Lipase
+2494,"Amilase, soro",Amilase
+2552,Glicemia Para Coleta Domiciliar,Glicose
+2595,"COVID-19-Sorologia IgM e IgG por quimiluminescencia, soro","Covid 19, Anticorpos IgG, Quimiolumin.-Indice"
+2596,"COVID-19-Sorologia IgM e IgG por quimiluminescencia, soro","Covid 19, Anticorpos IgG, Quimioluminescencia"
+2597,"COVID-19-Sorologia IgM e IgG por quimiluminescencia, soro","Covid 19, Anticorpos IgM, Quimiolumin.-Indice"
+2598,"COVID-19-Sorologia IgM e IgG por quimiluminescencia, soro","Covid 19, Anticorpos IgM, Quimioluminescencia"
+2654,Hemossedimentacao(Vhs) 1.Hora,VHS
+2697,Hemograma,Fracao Imatura de Plaquetas
+3025,Testosterona Livre,SHBG
+3026,Calcio Ionizado,Calcio Ionizado
+3027,Progesterona,Progesterona
+3032,"acido urico, soro",acido urico
+3035,Paratormonio - N-Intac,PTH
+3045,"Tsh, Receptor de, Anticorpos, Soro",TRAB
+3046,"Saturacao da Transferrina, soro",Siderofilina
+3047,"Saturacao da Transferrina, soro",Ferro
+3048,"Saturacao da Transferrina, soro",Ferro Grau Saturacao
+3049,"TIROPEROXIDASE, ANTICORPOS, SORO",Anti-Tiroperoxidase
+3100,"Fosforo, soro",Fosforo
+3102,Gonadotrofina Corionica (B - Hcg) (Rie Ou Eie),HCG
+3351,"Interleucina 6, soro",Interleucina 6
+3452,T4 - Tetraiodotironina,T4
+3455,"COVID-19-Teste Rapido (IgM e IgG), soro","Covid 19, Anticorpos IgM, teste rapido"
+3456,"COVID-19-Teste Rapido (IgM e IgG), soro","Covid 19, Anticorpos IgG, teste rapido"
+3457,"COVID-19-Teste Rapido (IgM e IgG), soro","Covid 19,Antic IgM/IgG,teste rapido-Interpret"
+3458,"COVID-19-Teste Rapido (IgM e IgG), soro","Covid 19, Antic IgM/IgG, teste rapido-Observ"
+3459,"Dengue, antigeno NS1, soro, teste rapido","Dengue, antigeno NS1"
+3534,"Proteina C Reativa, por imunoturbidimetria, soro",Proteina C-Reativa
+3610,Teste Rapido p/ deteccao Streptococcus Pyogenes (Grupo A),Teste Rapido p/ deteccao Streptococcus Pyogenes (Grupo A)
+3905,Calcio Total,Calcio
+4199,Hb/Ht,Hemoglobina
+4200,Hb/Ht,Hematocrito
+4307,Urina Tipo I - Jato Medio,"Dismorfismo, urina"
+4565,"Plaquetas, Contagem",Plaquetas
+4566,"Plaquetas, Contagem",Volume plaquetario medio
+5410,Urina Tipo I - Jato Medio,Observacao
+6122,Cultura Automatizada (1a Amostra - geral),Cultura Automatizada (1a Amostra - geral) - Parcial
+6123,Cultura Automatizada (1a Amostra - geral),Cultura Automatizada (1a Amostra - geral)
+6124,Aldolase,Aldolase
+6131,"Hemocultura para aerobios, por maldi-tof, varios materiais","Hemocultura para aerobios, por maldi-tof, varios materiais - Parcial"
+6132,"Hemocultura para anaerobios, por maldi-tof, varios materiais","Hemocultura para anaerobios, por maldi-tof, varios materiais - Parcial"
+6273,"Plaquetas, contagem, sangue total",Plaquetas
+6274,"Plaquetas, contagem, sangue total",Volume plaquetario medio
+6462,"Varicela Zoster, Sorologia","Varicella-Zoster, anticorpos IgG"
+6463,"Varicella-zoster Virus, Anticorpo IgM, soro","Varicella-Zoster, anticorpos IgM"
+6464,"Hepat.B Anti-Hbsag(Hbv-Vhb),Au",Anti-HBs
+6630,"Hepatite C Anti-Hcv, Sorologia",Anti-HCV
+6631,"Hepatite B/Anti-Hbe, Sorologia",Anti-HBe
+6632,"Hepat.B Hbeag(Hbv-Vhb),Sorolog",AgHBe
+6634,"Hepat.B Hbsag(Hbv-Vhb),Sorolog",AgHBs
+6635,Hepat.B Anti-Hbc(Hbv)Sorol.Igm,"Anti-HBc, IgM"
+6636,Hepat.B Anti-Hbc(Hbv)Sorol.Igg,Anti-HBc Total
+6642,"HIV, Sorologia (Elisa)",HIV1/HIV2 - Indice
+6643,"HIV, Sorologia (Elisa)",HIV1/HIV2
+6644,Sorologia Para Sifilis Fta/Abs,Sifilis - Elisa
+6645,"Sifilis, Sorologia Vdrl",Sifilis - Indice quimioluminescente CMIA
+6646,"Hepatite A (Hav-Vha),Sorol.Igm","Anti-VHA, IgM"
+6647,Hepatite A (Hav-Vha)-Sorol.Igg,Anti-VHA Total
+6678,"Virus Influenza A, Teste Molecular para Deteccao",Virus A/H1N1/SUINO
+6679,"Virus Influenza A, Teste Molecular para Deteccao",Virus Influenza A
+7181,"Albumina, soro",Albumina
+8003,"Hemocultura, para Anaerobios, Varios Materiais",Hemocultura para Anaerobios
+8097,"Bacilos Gram-Negativos Resistentes a Carbapenemicos, Cultura, Varios Materiais",Bacilos Gram-Negativos Resistentes a Carbapenemicos
+8098,"Cultura, Staphylococcus aureus resistente a oxacilina, varios materiais","Cultura, Staphylococcus aureus"
+8099,Enterococo Rest. Vancomin.Pesq,Enterococo Rest. Vancomin. Pesq
+8100,"Bacilos Gram-Negativos Resistentes a Carbapenemicos, Cultura, Varios Materiais",Bacilos Gram-Negativos Resistentes a Carbapenemicos - Parcial
+8104,"Urina, Exame de, para Unidades, sem especificacao de jato","pH, urina"
+8105,"Urina, Exame de, para Unidades, sem especificacao de jato","Densidade, urina"
+8106,"Urina, Exame de, para Unidades, sem especificacao de jato","Proteinas, urina isolada"
+8107,"Urina, Exame de, para Unidades, sem especificacao de jato","Glicose, urina isol"
+8108,"Urina, Exame de, para Unidades, sem especificacao de jato","C. Cetonicos, urina"
+8109,"Urina, Exame de, para Unidades, sem especificacao de jato","Bilirrubina, urina"
+8110,"Urina, Exame de, para Unidades, sem especificacao de jato","Urobilinogenio, urina"
+8111,"Urina, Exame de, para Unidades, sem especificacao de jato","Leucocitos, urina"
+8112,"Urina, Exame de, para Unidades, sem especificacao de jato","Eritrocitos, urina"
+8113,"Urina, Exame de, para Unidades, sem especificacao de jato","Aspecto, urina"
+8114,"Urina, Exame de, para Unidades, sem especificacao de jato","Cor, urina"
+8115,"Urina, Exame de, para Unidades, sem especificacao de jato","Cilindros, urina"
+8116,"Urina, Exame de, para Unidades, sem especificacao de jato","Celulas Epiteliais, urina"
+8117,"Urina, Exame de, para Unidades, sem especificacao de jato","Nitrito, urina"
+8118,"Urina, Exame de, para Unidades, sem especificacao de jato",Outros - Urina I
+8119,"Cultura de urina, sem especificacao de jato, para Unidades",Cultura de Urina
+8162,"Cultura de urina, sem especificacao de jato, para Unidades",Cultura de urina - Parcial
+8373,"Hemograma, sangue total",Fracao Imatura de Plaquetas
+8417,"Troponina T Ultrassensivel, plasma",Troponina T ultrassensivel
+8487,"Cultura, Staphylococcus aureus resistente a oxacilina, varios materiais","Cultura, Staphylococcus aureus - Parcial"
+8491,Enterococo Rest. Vancomin.Pesq,Enterococo Rest. Vancomin.Pesq - Parcial
+8515,"Dengue, Anticorpo IgG, soro","Dengue, IgG"
+8516,"Dengue, Anticorpo IgM, soro","Dengue, IgM"
+8977,Frutosamina,Frutosamina
+9284,Beta Hcg,HCG
+9392,"Dengue, anticorpo IgG, teste rapido","Dengue, IgG"
+9393,"Dengue, anticorpo IgM, teste rapido","Dengue, IgM"
+9786,Glicemia Kit Urg,"Glicose, arterial"
+9787,Hemoglobina - Kit Urg,Hemoglobina
+9788,Hematocrito - Kit Urg,Hematocrito
+9792,Potassio - Kit Urg,"Potassio, sangue"
+9793,Cloro - Kit Urg,"Cloro, arterial"
+9794,Calcio Ionizavel - Kit Urg,"Calcio Ionizado,arte"
+9795,Sodio - Kit Urg,"Sodio, sangue"
+9854,Proteinuria de 24h,"Proteinas, Urina 24h"
+9855,Proteinuria de 24h,Proteinas
+9856,Proteinuria de 24h,Periodo de coleta (horas)
+9857,Proteinuria de 24h,Volume (mL)
+9858,Imunoglobulina G,"IgG, Imunoglobulina"
+9859,Osmolalidade Urinaria,"Osmolalidade,urina"
+9929,"Clostridium Difficile, pesquisa do DNA, fezes (PCR em tempo Real)","Clostridium difficile toxigenico, DNA"
+9973,Imunoglobulina A,"IgA, Imunoglobulina"
+10161,"Calcio ionizado, pos filtro, plasma","Calcio Ionizado, pos filtro"
+10173,"Vancomicina, Dosagem",Vancomicina
+10206,"Clostridium difficile, pesquisa de toxinas A e B, fezes",Clostridium difficile
+10305,Creatinina Urin. Amost.Isolada,"Creatinina, urina isolada"
+10310,Amonia Serica,Amonia
+10545,Complemento C1,C1q
+10546,Haptoglobina,Haptoglobina
+10906,"Rotavirus, Pesquisa","Rotavirus, fezes"
+10907,"Fezes, Cultura","Fezes, Cultura"
+10908,Protoparasitologico,Parasitologico
+11124,Desidrogenase Latica  ( LDH ),DHL
+11195,"Sangramento, Tempo de",Tempo de Sangramento
+11728,"Reticulocitos, Contagem",Reticulocitos
+11729,"Reticulocitos, Contagem",Reticulocitos %
+11730,"Reticulocitos, Contagem",Fracao de reticulocitos imaturos (IRF)
+11770,Tempo De Trombina (Tt),"Trombina, tempo"
+11799,"Plaquetas, Agregacao",Numero de plaquetas no PRP (apos diluicao)
+11800,"Plaquetas, Agregacao","Agreg Plaquetaria - Maxima - ADP 10,0 microM"
+11801,"Plaquetas, Agregacao","Agreg Plaquetaria - Maxima - ADP 2,5 microM"
+11802,"Plaquetas, Agregacao",Agregacao Plaquetaria
+11803,"Plaquetas, Agregacao","Agreg Plaq - Maxima - Colageno 1,0 microg/mL"
+11804,"Plaquetas, Agregacao","Agreg Plaq - Lag time- Colageno 5,0 microg/mL"
+11805,"Plaquetas, Agregacao","Agreg Plaq - Lag time- Colageno 1,0 microg/mL"
+11806,"Plaquetas, Agregacao","Agreg Plaq - Maxima - Ristocetina 1,2 mg/mL"
+11807,"Plaquetas, Agregacao","Agreg Plaq - Maxima - Ristocetina 0,5 mg/mL"
+11808,"Plaquetas, Agregacao","Agreg Plaq - Maxima - Adrenalina 2,0 microM"
+11809,"Plaquetas, Agregacao",Agreg Plaq - Max -ac Aracdonico 500 microg/mL
+13251,"Microalbumina, Amostra Isolada, Urina",Microalbuminuria iso
+13253,"Proteinas, totais e fracoes, soro",Proteinas
+13254,"Proteinas, totais e fracoes, soro",Albumina
+13255,"Proteinas, totais e fracoes, soro",Globulinas
+13256,"Proteinas, totais e fracoes, soro",Albumina/Globulinas
+13265,"Proteina, Amostra Isolada, Urina","Proteinas,urina iso"
+13266,"Proteina, Amostra Isolada, Urina","Creatinina,urina iso"
+13292,"Tireoglobulina, Anticorpo Anti",Anti-Tiroglobulina
+13910,Hepar. Baixo Peso Mol  Anti-Xa,Hepar. Baixo Peso Mol Anti-Xa
+14292,Antigeno Carcinoembriogenico (CEA),CEA
+14348,Hemograma,Blastos
+14375,Hemograma,Blastos (%)
+14473,Cultura Automatizada (Geral),"Cultura Automatizada, 3a Amostra"
+14474,Cultura Automatizada (Geral),"Cultura Automatizada, 3a Amostra - Parcial"
+14577,Ureia na Urina,Periodo de coleta (horas)
+14578,Ureia na Urina,Volume (mL)
+14579,Ureia na Urina,Excrecao no volume enviado
+14583,"Hemocultura para fungos, por maldi-tof, varios materiais","Hemocultura para fungos, por maldi-tof, varios materiais - Resultado Parcial"
+14721,"Sedimento, urina jato medio","Leucocitos, urina"
+14722,"Sedimento, urina jato medio","Eritrocitos, urina"
+14723,"Sedimento, urina jato medio","Celulas Epiteliais, urina"
+14937,"Selenio, Dosagem","Selenio, soro"
+14939,"Vitamina D, 1,25 Dihidroxi","Vitamina D, 1,25 Dihidroxi"
+15190,"Virus respiratorios, sincicial, influenza, parainfluenza, adeno, fluorescencia",Virus respiratorios - deteccao
+16409,Urina Tipo I - Jato Medio,"Cristais, urina"
+16411,Urina Tipo I - Jato Medio,Outros - Urina I
+16466,"Herpes Simp.Virus(Hsv-Vhs),Pcr","HSV1, Deteccao"
+16467,"Herpes Simp.Virus(Hsv-Vhs),Pcr","HSV2, Deteccao"
+16468,"Epstein Baar (Ebv), Pcr Quantitativo","Epstein-Barr, Quant."
+16469,"Citomegalovirus (CMV), PCR Quantidade Viral","CMV, Quantificacao"
+16720,"Anti-Xa, para heparina nao fracionada (HNF), sangue total","ANTI-Xa, atividade"
+18376,"Proteina C Reativa, soro",Proteina C-Reativa
+18685,Fator VIII R-Ag Von Willenrand,v.Willebrand
+18686,"Fator VIII, Dosagem",Fator VIII
+18687,"Fator V, Atividade",Fator V
+18688,"Fator II, Atividade",Fator II
+18689,"Fator VII, Atividade",Fator VII
+18872,Sorologia Para Sifilis Fta/Abs,Sifilis - Floculacao
+18878,VDRL,Sifilis - Floculacao
+18932,"Doenca De Chagas (Machado Guerreiro), Sorologia","Tripanossoma Cruzi - IgG, Elisa"
+18933,"Doenca De Chagas (Machado Guerreiro), Sorologia","Tripanossoma Cruzi - IgG, IFI"
+19257,CA 125,CA 125
+19258,CA 15-3,CA 15-3
+19259,CA 19-9,CA 19-9
+19277,Alfa Feto Proteina,Alfa Fetoproteina
+19797,S-DHEA,DHEA-S
+19800,Androstenediona,Androstenediona
+19859,"Eritrovirus B19, Anticorpo IgG, soro","Eritrovirus B19, IgG"
+19860,"Eritrovirus B19, Anticorpo IgM, soro","Eritrovirus B19, IgM"
+22037,"Hemograma, sangue total",Bastonetes
+22038,"Hemograma, sangue total",Segmentados
+22050,"Hemograma, sangue total",Bastonetes (%)
+22051,"Hemograma, sangue total",Segmentados (%)
+22785,Coombs Indireto,"Anticorpos irreg. Anti-Eritrocitarios, soro"
+22801,"Cultura, Streptococcus Beta Hemolitico do Grupo B, Varios Materiais","Cultura, Streptococcus Beta Hemolitico"
+22809,Apo Lipoproteina B,Apolipoproteina B
+22818,Dehidrotestosterona (DHT),Dehidrotestosterona
+22866,T3 Livre,T3 livre
+22889,"Herpes Simp. Tipo 1, Sorol Igg","Herpes Simplex, Tipo 1, IgG"
+22890,"Herpes Simples Tipo 2, Sorol Igg","Herpes Simplex, Tipo 2, IgG"
+22898,"Rubeola, Sorologia Igg","Rubeola, IgG"
+22899,"Rubeola, Sorologia Igm","Rubeola, IgM"
+22900,"Toxoplasmose, Sorologia IgG","Toxoplasma, IgG"
+22901,"Toxoplasmose, Sorologia Igm","Toxoplasma, IgM"
+22902,"Citomegalovirus (CMV), Sorologia IgG","CMV, IgG"
+22903,"Citomegalovirus (CMV), Sorologia IgM","CMV, IgM"
+22979,"Urina, Exame de, para Unidades, sem especificacao de jato","Dismorfismo, urina"
+23074,Hemograma,Indice de Green & King
+23618,Hemoglobina,Hemoglobina
+24096,"Cortisol, Saliva - amostra","Cortisol, saliva"
+26598,Tireoglobulina Serica,Tiroglobulina
+26756,"Fungos, Cultura","Fungos, Cultura - Parcial"
+26759,"Fungos, Cultura","Fungos, Cultura"
+27381,"acido Latico, Sangue Arterial","Lactato, arterial"
+27856,"Aspergillus, pesquisa do antigeno galactomanana, Varios Materiais ",Galactomanana
+28091,Urina Tipo I - Jato Medio,"Leveduras, urina"
+28436,"Trombina Iii, Atividade",Antitrombina III
+28688,Complemento C2,C2
+28689,Complemento C5,C5
+31102,"Hepat.B (Hbv)Quantitativo Carga Viral, (em tempo real) PCR",HBV - UI/mL
+32457,Imunoeletroforese,"Proteinas Sericas, imunofixacao"
+32467,Beta 2 Microglobulina (soro),Beta 2 Microglobulin
+32469,Proteina de Bence Jones,"Bence-Jones, urina"
+32470,"PTH 1-84, PTH (paratormonio) bioativo","PTH 1-84, soro"
+32471,"Imunoglobulina G, Subclasse 1, Soro",IgG1
+32472,"Imunoglobulina G, Subclasse 2, soro",IgG2
+32473,"Imunoglobulina G, Subclasse 3, soro",IgG3
+32474,"Imunoglobulina G, Subclasse 4, Soro",IgG4
+32487,Imunoglobulina M,"IgM, Imunoglobulina"
+32513,Imunoglobulina E,"IgE, Imunoglobulina"
+32525,"Reticulocitos, Sangue Total",Reticulocitos
+32526,"Reticulocitos, Sangue Total",Reticulocitos %
+32527,"Reticulocitos, Sangue Total",Fracao de reticulocitos imaturos (IRF)
+32611,Mioglobina (Sangue),Mioglobina
+34042,Urina Tipo I - Jato Medio,Espermatozoides
+36789,"Urina, Exame de, para Unidades, sem especificacao de jato",Observacao
+37812,Sirolimus (Rapamicina),Rapamicina
+37813,"Prograf (Fk 506), Tacrolimus, Dosagem",Tacrolimus - Elisa
+37875,Prograf Em Tempos,Tacrolimus
+41283,Cultura Automatizada - Orofaringe,Cultura Automatizada - Orofaringe
+41956,"Gliadina, Anticorpo IgG, soro - Sabin","Gliadina, IgG"
+41957,"Gliadina, Anticorpo IgA, soro - Sabin","Gliadina, IgA"
+41958,"Transglutaminase Iga, Anticorpo Anti",AntiTransglutaminase
+41959,"Transglutaminase Iga, Anticorpo Anti",Observacao
+41969,Rast P/ Amendoim (F13),Rast - F13 - Amendoim
+41970,Rast P/ Gluten (F79),Rast - F79 - Gluten
+41971,Rast P/ Alimentos - Cereais ( Fx3),Rast - FX3 - Alimentos
+41972,Rast Dermato. Pteronyssinus (Acaro Domestico),Rast - D1 - D. Pteronyssinus
+42317,Metanefrina Urinaria,"Normetnefrina, urina"
+42318,Metanefrina Urinaria,"Metanefrina total, urina"
+42319,Metanefrina Urinaria,"Metanefrina, urina"
+42320,"Metanefrinas, Plasma","Metanefrina, plasma"
+42321,"Metanefrinas, Plasma","Normetanefrina, plasma"
+42423,Cortisol Urinario,"Cortisol Livre, Urin"
+42424,Cortisol Urinario,Cortisol Livre L
+42425,Cortisol Urinario,Cortisona Livre L
+42426,Cortisol Urinario,"Cortisona Livre, Urina 24h"
+42427,Cortisol Urinario,Relacao Cortisol/Cortisona
+42428,Cortisol Urinario,Volume (mL)
+46555,"Plaquetas, Contagem",Fracao Imatura de Plaquetas
+46569,"Testosterona especial, soro",Testosterona
+47570,Horm.Adrenocorticotrofico/Acth,ACTH
+47571,Horm.Adrenocorticotrofico/Acth,Periodo de coleta (horas)
+47596,Gh Basal,Hormonio crescimento
+47598,IGF1 Somatomedina,IGF-1
+47705,"Epstein Barr (Ebv), Sorologia IgG","Epstein-Barr, IgG"
+47706,"Epstein Barr (Ebv), Sorologia IgM","Epstein-Barr, IgM"
+52253,Hemograma automatizado pre-QT,Hemoglobina
+52254,Hemograma automatizado pre-QT,VCM
+52255,Hemograma automatizado pre-QT,Leucocitos
+52266,Hemograma automatizado pre-QT,Neutrofilos
+52267,Hemograma automatizado pre-QT,Eosinofilos
+52268,Hemograma automatizado pre-QT,Basofilos
+52269,Hemograma automatizado pre-QT,Linfocitos
+52270,Hemograma automatizado pre-QT,Monocitos
+52271,Hemograma automatizado pre-QT,Plaquetas
+52272,Hemograma automatizado pre-QT,Eritrocitos
+52273,Hemograma automatizado pre-QT,Hematocrito
+52274,Hemograma automatizado pre-QT,Hemoglobina Corpuscular Media
+52275,Hemograma automatizado pre-QT,Concentracao de Hemoglobina Corpuscular
+52276,Hemograma automatizado pre-QT,RDW
+52277,Hemograma automatizado pre-QT,Neutrofilos (%)
+52278,Hemograma automatizado pre-QT,Eosinofilos (%)
+52279,Hemograma automatizado pre-QT,Basofilos (%)
+52280,Hemograma automatizado pre-QT,Linfocitos (%)
+52281,Hemograma automatizado pre-QT,Monocitos (%)
+52282,Hemograma automatizado pre-QT,Volume plaquetario medio
+53311,"Calprotectina, Fezes",Calprotectina
+53312,"Giardia Lamblia, Antigeno, Fezes","Giardia Lamblia, antigeno"
+53383,Enolase Neuronio Especif.(Nse),Enolase Neuronio-Especifica
+53384,"Serotonina, Dosagem","Serotonina, soro"
+53385,Gastrina,"Gastrina, soro"
+53386,Cromogranina,Cromogranina A
+58549,Urina Tipo 1 - Jato Medio,"pH, urina"
+58550,Urina Tipo 1 - Jato Medio,"Densidade, urina"
+58551,Urina Tipo 1 - Jato Medio,"Proteinas, urina isolada"
+58552,Urina Tipo 1 - Jato Medio,"Glicose, urina isol"
+58553,Urina Tipo 1 - Jato Medio,"C.Cetonicos, urina"
+58554,Urina Tipo 1 - Jato Medio,"Bilirrubina,urina"
+58555,Urina Tipo 1 - Jato Medio,"Urobilinogenio,urina"
+58556,Urina Tipo 1 - Jato Medio,"Leucocitos, urina"
+58557,Urina Tipo 1 - Jato Medio,"Eritrocitos, urina"
+58558,Urina Tipo 1 - Jato Medio,"Dismorfismo, urina"
+58559,Urina Tipo 1 - Jato Medio,"Aspecto, urina"
+58560,Urina Tipo 1 - Jato Medio,"Cor, urina"
+58561,Urina Tipo 1 - Jato Medio,"Cilindros, urina"
+58562,Urina Tipo 1 - Jato Medio,Celulas Epiteliais
+58563,Urina Tipo 1 - Jato Medio,"Nitrito, urina"
+59072,"Paratormonio, Dosagem",Calcio
+59073,"Paratormonio, Dosagem",Creatinina
+59095,"Paratormonio, Dosagem",PTH
+59229,Espermograma,Volume ejaculado
+59230,Espermograma,Concentracao
+59231,Espermograma,Leucocitos
+59232,Espermograma,Morfologia estrita
+59233,Espermograma,Total de espermatozoides PR + NP
+59234,Espermograma,Espermatozoides progressivos PR
+59235,Espermograma,Espermatozoides nao progressivos NP
+59236,Espermograma,Espermatozoides imoveis IM
+59237,Espermograma,Motilidade total
+59238,Espermograma,Hemacias
+59594,"Fezes, Pesq.De Sangue Oculto","Sangue Oculto, fezes"
+59738,Vitamina K,Vitamina K
+59774,"Vitamina E, Dosagem","Vitamina E (tocoferol), soro"
+59775,"Vitamina A, Dosagem","Vitamina A (retinol), soro"
+60168,Calcio Urinario,"Calcio, Urina 24h"
+60169,Calcio Urinario,Periodo de coleta (horas)
+60170,Calcio Urinario,Volume (mL)
+60171,acido urico Urinario,"acido urico, urina"
+60172,acido urico Urinario,Periodo de coleta (horas)
+60173,acido urico Urinario,Volume (mL)
+60174,Oxaluria na Urina,"Oxalato, urina"
+60175,Oxaluria na Urina,Periodo de coleta (horas)
+60176,Oxaluria na Urina,Volume (mL)
+60177,Citrato Na Urina,"Citrato, urina"
+60178,Citrato Na Urina,Periodo de coleta (horas)
+60179,Citrato Na Urina,Volume (mL)
+60211,"Anaerobios, Cultura","Anaerobios, Cultura"
+60213,"Anaerobios, Cultura",Cultura Anaerobios - Parcial
+61286,Lipoproteina A (Lpa),Lipoproteina Lp(a)
+61287,"Fator XII, Atividade",Fator XII
+61316,"Anti - Cardiolipina, IgG e IgM, soro",AntiCardiolipina IgM
+61317,"Anti - Cardiolipina, IgG e IgM, soro",AntiCardiolipina IgG
+61318,Anticoagulante Lupico,Anticoagulante Lupico - Conclusao
+61320,Dosagem Proteina S,Proteina S Total
+61321,Dosagem Proteina S,Proteina S Livre
+61322,"Fator V Leiden, Pesquisa Da Mutacao G 2010A, Protrombina",Fator V Leiden
+61323,"Fator V Leiden, Pesquisa Da Mutacao G 2010A, Protrombina",Protrombina 20210G>A
+61526,Proteina C Funcional,Proteina C
+61528,Beta 2 glicoproteina 1 autoanticorpos,"Beta 2 Glic. I, IgG"
+61529,"BETA-2-GLICOPROTEINA 1, AUTOANTICORPO IGM, SORO ","Beta 2 Glic. I, IgM"
+61538,"Fator de Von Willebrand, Multimeros, Plasma",Ristocetina
+61555,"Fator de Von Willebrand, Multimeros, Plasma",Multimetros do fator de Von Willebrand
+61725,Cultura Automatizada de Escarro,Cultura Automatizada de Escarro
+61790,"Micoplasma, Sorologia","Micop Pneumoniae,IgG"
+61791,"Micoplasma, Sorologia","Micop Pneumoniae,IgM"
+61792,"Legionella, Sorologia","Legionella, anticorpos totais"
+62132,"Bk (Baar), Cultura (Lavado Bronquico)","Bk (Baar), Cultura (Lavado Bronquico) - Parcial"
+62147,"Aspergillus, pesquisa do antigeno galactomanana, Varios Materiais ","Galactomanana, lavado"
+62150,"Pcr convencional P/ Mycobacterium Tuberculosis, varios materiais",Mycobacterium tuberculosis PCR
+63643,"HTLV1 e 2, Anticorpos totais, soro","HTLV1/2, Anticorpos"
+64366,"Tireostimulante (Tsh), Hormonio (Rie)","Observacao, TSH"
+65928,"COVID-19-Teste Rapido (IgM e IgG), soro","Covid 19, Material"
+66372,Antibiograma Automat.1.Amostra,Antibiograma
+68335,"HIV 1/2, Teste Rapido",HIV1/HIV2 -Imunocrom
+69257,Urina Tipo 1 - Jato Medio,"Leveduras, urina"
+69259,Urina Tipo 1 - Jato Medio,Outros - Urina I
+69355,Cultura Automatizada Vaginal,Cultura Automatizada Vaginal
+69356,"Trichomonas, pesquisa, secrecao vaginal","Tricomonas, secrecao vaginal"
+70999,Apolipoproteina A,Apolipoproteina A-1
+71072,Fosfatase acida Total,Fosfatase acida - Total
+71087,17 Alfa Hidroxiprogesterona,17-Alfa-Hidroxiprog.
+71105,DHEA - Dehidroepiandrosterona,DHA
+73377,"Hepat.C Virus(Hcv-Vhc),Genotipagem","Hepatite C, Genotipagem"
+76488,"Candida Albicans, Anticorpos totais, Soro","Candida, anticorpos"
+76491,"Streptolisina O,Antic.Ant Aslo",Antistreptolisina O
+76564,"Cisticercose, Sorologia Igg","Cisticercose, IgG"
+76568,Cromo,Cromo
+76570,"Helicobacter pylori, Anticorpo IgG, soro","Helicobacter Pylori, IgG"
+78800,"Clostridium difficile, pesquisa de toxinas A e B, fezes",Observacao
+79779,"Sarampo, Sorologia Igg ","Sarampo, Anticorpos IgG"
+79780,"Sarampo, Sorologia Igm","Sarampo, Anticorpos IgM"
+79787,"Herpes Simp.Tp 1 e 2, Sorol. Igm","Herpes Simplex, Tipo 1 e 2, IgM"
+83903,Peptideo C,Peptidio C
+85492,"Urina, Cultura Jato Final","Cultura, urina terceiro jato"
+85493,"Urina, Cultura Jato Final","Cultura, urina terceiro jato - Parcial"
+85494,"Sedimento, urina terceiro jato, para Unidades","Leucocitos, urina"
+85495,"Sedimento, urina terceiro jato, para Unidades","Eritrocitos, urina"
+85496,"Urina, Cultura Jato Final","Celulas Epiteliais, urina"
+86842,"Oxcarbazepina, Dosagem",Oxcarbazepina
+87310,"Isospora Belli, Pesquisa","Coccidios, fezes"
+87311,"Cryptosporidium, Pesquisa - Fezes","Cryptosporidium, fezes"
+90307,CA 72-4,CA 72-4
+90313,"Manganes, Soro","Manganes, soro"
+90325,"Ceruloplasmina, Dosagem",Ceruloplasmina
+90335,"T4L, livre, soro",T4 Livre - Eletroquimioluminescencia
+90755,"Sedimento, urina de primeiro jato, para Unidades","Celulas Epiteliais, urina 1J"
+90756,"Bacterioscopico, Urina primeiro jato","Eritrocitos quantitativo, urina 1J"
+90757,"Bacterioscopico, Urina primeiro jato","Leucocitos quantitativo, urina 1J"
+90758,"Trichomonas, pesquisa, urina primeiro jato","Tricomonas, urina"
+90764,"Deteccao de ureaplasma, por metodo molecular, varios materiais",Ureaplasma urealyticum
+90765,"Deteccao de ureaplasma, por metodo molecular, varios materiais",Ureaplasma parvum
+90836,"Urina, Cultura - 1o jato","Urina, Cultura 1o Jato"
+91496,Linfocitos Nat Killer Nk Cd56,"Linfocitos Natural killer (CD56/16+,CD3-)"
+91497,Linfocitos T E B (Cd3 / Cd19),Linfocitos T
+91498,Linfocitos T E B (Cd3 / Cd19),Linfocitos B
+91499,Eletroforese de Hemoglobina,Hemoglobina A
+91500,Eletroforese de Hemoglobina,Hemoglobina A2
+91501,Eletroforese de Hemoglobina,Hemoglobina F
+91510,"Eritrograma (Eritrocitos, Hemoglobina, Hematocrito)",Hemoglobina
+91511,"Eritrograma (Eritrocitos, Hemoglobina, Hematocrito)",VCM
+91512,"Eritrograma (Eritrocitos, Hemoglobina, Hematocrito)",Eritrocitos
+91513,"Eritrograma (Eritrocitos, Hemoglobina, Hematocrito)",Hematocrito
+91514,"Eritrograma (Eritrocitos, Hemoglobina, Hematocrito)",HCM
+91515,"Eritrograma (Eritrocitos, Hemoglobina, Hematocrito)",CHCM
+91516,"Eritrograma (Eritrocitos, Hemoglobina, Hematocrito)",RDW
+91517,"Eritrograma (Eritrocitos, Hemoglobina, Hematocrito)","Morfologia, Serie Vermelha"
+94284,"Bk (Micobacterias), Cultura","Bk (Micobact), Cultura - Parcial"
+94375,"Glicose, pos prandial, plasma (Coleta domiciliar)",Glicose pos prandial
+94452,Lamotrigina,Lamotrigina
+96766,"Clostridium Difficile, pesquisa do DNA, fezes (PCR em tempo Real)","Clostridium difficile, delecao no gene tcdC"
+97217,"Hemocultura, para Fungos, Varios Materiais",Hemocultura Fungos - Parcial
+97219,"Hemocultura, para Aerobios, Varios Materiais",Hemocultura para Aerobios
+97220,"Hemocultura, para Anaerobios, Varios Materiais","Hemocultura, para Anaerobios - Parcial"
+97221,"Hemocultura, para Aerobios, Varios Materiais","Hemocultura, para Aerobios - Parcial"
+101538,"J01, Anticorpo Anti","Jo-1, Auto-Anticorpos-ensaio imunoenzimatico"
+102519,"Amicacina, Dosagem",Amicacina
+103292,"Cistatina C, Soro",Cistatina C
+106138,Urina Tipo I - 1. Jato,"Cor, urina 1J"
+106139,Urina Tipo I - 1. Jato,"Aspecto, urina 1J"
+106140,Urina Tipo I - 1. Jato,"Celulas Epiteliais, urina 1J"
+106141,Urina Tipo I - 1. Jato,"Cilindros, urina 1J"
+106142,Urina Tipo I - 1. Jato,"Nitrito, urina 1J"
+106143,Urina Tipo I - 1. Jato,"Bilirrubina,urina 1J"
+106144,Urina Tipo I - 1. Jato,"Urobilinogenio, 1J"
+106145,Urina Tipo I - 1. Jato,"pH, urina 1J"
+106146,Urina Tipo I - 1. Jato,"Proteinas, urina 1J"
+106147,Urina Tipo I - 1. Jato,"Eritrocitos,urina 1J"
+106148,Urina Tipo I - 1. Jato,"Leucocitos,urina 1J"
+106149,Urina Tipo I - 1. Jato,"Dismorfismo,urina 1J"
+106150,Urina Tipo I - 1. Jato,"Glicose,urina 1J"
+106151,Urina Tipo I - 1. Jato,"C.Cetonicos,urina 1J"
+106152,Urina Tipo I - 1. Jato,"Densidade, urina 1J"
+106153,Urina Tipo I - 1. Jato,"Outros, urina 1J"
+111234,HLA B27,"HLA-B27, Genotipagem"
+111236,"Dna Nativo, Anticorpo Anti",Anti-DNA
+114397,Sorologia Para Sifilis Fta/Abs,Sifilis - imunoenzimatico
+114399,Sorologia Para Sifilis Fta/Abs,Sifilis - Indice imunoenzimatico
+117254,"Hemocultura, para Fungos, Varios Materiais",Hemocultura Fungos
+118033,Hemograma,Plasmoticos
+118045,Hemograma,Plasmocitos (%)
+121920,Peptideo Citrulinado,"CCP, Auto-Anticorpos"
+126844,Linfocitos Cd4 / Cd8,Linfocitos CD4+
+126845,Linfocitos Cd4 / Cd8,Linfocitos CD8+
+126846,Linfocitos Cd4 / Cd8,Relacao CD4/CD8
+126847,Linfocitos Cd4 / Cd8,Linfocitos CD-3
+126880,"Vitamina B2, plasma, dosagem",Vitamina B2
+126900,"Tiroide, Anticorpos (p/dosagem de TG)",Anti-Tiroglobulina
+127275,Colesterol Total e Fracoes,VLDL-Colesterol
+130627,"Alfa 1 Glicoproteina Acida, Dos",Alfa-1 Glicopr Acida
+130708,"Citoplasma, Anticorpo Anti",ANCA
+130865,"Histoplasmose, Sorologia",Histoplasma
+130867,"Cryptococcus Neoformans, Anticorpos, Soro",Cryptococcus Neoformans
+131587,Teste Cutaneo Com Ppd,PPD - Enduracao
+132327,"Levetiracetam, Dosagem, Soro",Levetiracetam
+134106,Osmolalidade Plasmatica,"Osmolalidade,soro"
+137734,"Anticorpos anti-heparina, fator plaquetario 4, soro","Anti-Heparina/Fator Plaquetario 4, IgG"
+138347,Eritropoietina,Eritropoietina (EPO)
+138379,"Cadeias Kappa e Lambda, Livres, Soro",Cadeias kappa livres
+138380,"Cadeias Kappa e Lambda, Livres, Soro",Cadeias lambda livres
+138381,"Cadeias Kappa e Lambda, Livres, Soro",Relacao kappa/lambda
+138382,"Cadeias Kappa e Lambda, Livres, Soro",Cadeias kappa livres (mg/L)
+138383,"Cadeias Kappa e Lambda, Livres, Soro",Cadeias lambda livres (mg/L)
+138477,"Fator de crescimento do endotelio vascular (VEGF), plasma",Fator Crescimento Endotelio Vascular (VEGF)
+139597,Cetonuria - Urina,"Corpos cetonicos, urina"
+141319,"Voriconazol, Soro","Voriconazol, soro"
+141627,Teste De Sensibilidade Para Fungos Dr3,Teste de Sensibilidade para Fungos Dr3
+144418,"Sedimento, urina jato medio","Dismorfismo, urina"
+145181,Urina Tipo I - 1. Jato,"Observacao, urina 1J"
+149159,"Plaquetas, contagem especial, sangue total",Plaquetas
+149160,"Plaquetas, contagem especial, sangue total",Volume plaquetario medio
+153880,Interligadores C - Terminais-Ctx,CTX
+155296,"Metanefrinas, Amostra Isolada Urina ","Normetanefrina, urina"
+155297,"Metanefrinas, Amostra Isolada Urina ","Metanefrina total, urina"
+155298,"Metanefrinas, Amostra Isolada Urina ","Metanefrina, urina"
+158600,"Citomegalovirus, Deteccao Qualitativa por PCR, Varios Materiais","CMV, Deteccao"
+158601,"Citomegalovirus, Deteccao Qualitativa por PCR, Varios Materiais",Observacao
+159539,"Fator XI, Atividade",Fator XI
+159540,"Fator IX, Dosagem",Fator IX
+160000,"Figado, Anticorpo Anti ( Lkmn1)",LKM
+160001,"Musculo Liso,Anticorpo Anti",Muscularis Mucosa
+160002,"Musculo Liso,Anticorpo Anti",Mesangio Glomelular
+160004,"Musculo Liso,Anticorpo Anti",Bainha Muscular de Vaso
+160005,"Musculo Liso,Anticorpo Anti",Musculo liso-Fibrilas Tubulares Extracelulare
+160483,"Elastase pancreatica, quantificacao, fezes","Elastase Pancreatica, fezes"
+160484,"Endomisio, Anticorpo Anti (IgA)",IgA Anti-Endomisio
+162081,Hemograma automatizado pre-QT,Fracao Imatura de Plaquetas
+163696,Coagulograma,Fracao Imatura de Plaquetas
+164121,"Sodio, Urina,  Amostra Isolada","Sodio, urina isolada"
+164122,"Sodio, Urina,  Amostra Isolada",Relacao Sodio/Creatinina
+164706,"TNF - Fator Alfa de Necrose Tumoral, soro",Fator de necrose tumoral
+166193,"Hemograma, sangue total",Blastos
+166210,"Hemograma, sangue total",Blastos (%)
+166967,"Citomegalovirus (CMV), Antigenemia","Citomegalovirus, pesquisa Antigenemia"
+167044,Pcr Quantitativo Para Hhv6,Virus Herpes-6 (HHV6)
+167127,Teste De Coombs Direto,Coombs direto
+168412,"Bk (Micobacterias), Cultura","Bk (Micobact), Cultura"
+169271,"Hemograma, sangue total",Mielocitos (%)
+169272,"Hemograma, sangue total",Metamielocitos (%)
+169283,"Hemograma, sangue total",Mielocitos
+169284,"Hemograma, sangue total",Metamielocitos
+171635,Testosterona,Observacao
+174503,"Proteinase 3, Anticorpo Anti","Proteinase - 3, Anticorpos"
+174907,"Coxsackie B, Anticorpos, varios materiais",Virus Coxsackie - B1
+174908,"Coxsackie B, Anticorpos, varios materiais",Virus Coxsackie - B2
+174909,"Coxsackie B, Anticorpos, varios materiais",Virus Coxsackie - B3
+174910,"Coxsackie B, Anticorpos, varios materiais",Virus Coxsackie - B4
+174911,"Coxsackie B, Anticorpos, varios materiais",Virus Coxsackie - B5
+174912,"Coxsackie B, Anticorpos, varios materiais",Virus Coxsackie - B6
+175057,"Leptospirose, Sorologia","Anti-Leptospira, IgM"
+176535,Sedimento Quantitativo,"Leucocitos, urina"
+176536,Sedimento Quantitativo,"Eritrocitos, urina"
+176537,Sedimento Quantitativo,"Dismorfismo, urina"
+176538,Sedimento Quantitativo,"Celulas Epiteliais, urina"
+176539,"Cultura de urina, sem especificacao de jato, para Unidades",Outros - Urina I
+176540,"Cultura de urina, sem especificacao de jato, para Unidades",Observacao
+176603,"CALCIO IONIZADO, POS FILTRO, SANGUE VENOSO","Calcio Ionizado, pos filtro"
+176829,Hematocrito,Hematocrito
+184588,"HIV-1 Quant (Carga Viral), PCR",HIV-1 Quantificacao
+186221,Urina Tipo I - Jato Medio,"Bacterias, urina"
+187168,Igfbp,IGFBP3
+189619,"Tireoglobulina apos Estimulo de Tsh, Soro",Tiroglobulina
+190203,Creatinina Urinaria,"Creatinina, urina"
+190204,Creatinina Urinaria,Periodo de coleta (horas)
+190205,Creatinina Urinaria,Volume (mL)
+190230,Sodio Urinario,Volume (mL)
+190231,Sodio Urinario,"Sodio, urina 24h"
+190232,Sodio Urinario,"Sodio, urina  24h no volume enviado"
+190662,"Hormonio foliculo estimulante, especial, soro",FSH
+194087,"COVID-19, anticorpos IGA e IGG, soro","Covid 19, Anticorpos IgA, Interpretacao"
+194088,"COVID-19, anticorpos IGA e IGG, soro","Covid 19, Anticorpos IgA"
+194089,"COVID-19, anticorpos IGA e IGG, soro","Covid 19, Anticorpos IgG, Interpretacao"
+194090,"COVID-19, anticorpos IGA e IGG, soro","Covid 19, Anticorpos IgG"
+194091,"COVID-19, anticorpos IGA e IGG, soro","Covid 19, Anticorpos IgA e IgG, Interpretacao"
+194092,"COVID-19, anticorpos IGA e IGG, soro","Covid 19, observacao"
+199823,"Fator X, Atividade",Fator X
+202955,Tempo De Sangramento,Tempo de Sangramento
+203124,Mycoplasma/Ureaplasma,Pesquisa De Mycoplasma
+207443,"Lacosamida, soro",Lacosamida
+210108,"ENA, Anticorpo Anti ( Ant. SM+Ant.RNP )  ","Auto-Anticorpos, RNP"
+210109,"ENA, Anticorpo Anti ( Ant. SM+Ant.RNP )  ","Auto-Anticorpos, Sm"
+210860,"Endomisio, Anticorpo IgG","Endomisio, Anticorpos IgG"
+210885,"Transglutaminase, Tecidual Igg, Soro","Transglutaminase tecidual, IgG"
+210886,"Fezes, Dosagem de Gorduras","Gordura, dosagem, fezes"
+210887,"Fezes, Dosagem de Gorduras",Peso das fezes
+213222,"Hemograma, sangue total",Indice de Green & King
+220834,"Everolimus, dosagem, sangue total",Everolimus
+228514,Renina,Renina
+228515,Aldosterona,Aldosterona
+228680,"Proteina, Amostra Isolada, Urina",Rel Proteinas/Creatinina
+228849,"Potassio, amostra isolada, urina","Potassio, urina isolada"
+228850,"Potassio, amostra isolada, urina",Relacao Potassio/Creatinina
+235546,Rast P/ Aveia (F7),Rast - F7 - Aveia
+235547,"Ige especifico para ovoalbumina, soro",Rast - F232 - nGal d 2 Ovoalbumina
+235548,Rast P/ Cacau (F93),Rast - F93 - Cacau (Chocolate)
+235549,Rast Carne De Vaca,Rast - F27 - Carne de vaca
+235550,Rast P/ Caseina (F78),Rast - F78 - Caseina
+235551,"Rast para Castanha de Caju, Soro",Rast - F202 - Castanha de caju
+235552,Rast Centeio,Rast - G12 - Centeio
+235553,Rast P/ Clara De Ovo (F1),Rast - F1 - Clara de ovo
+235554,Rast P/ Gema De Ovo (F75),Rast - F75 - Gema de ovo
+235556,Rast P/ Soja (F14),Rast - F14 - Soja
+235557,Rast P/ Leite (F2),Rast - F2 - Leite de vaca
+235558,Rast P/ Trigo - F4,Rast - F4 - Trigo
+235559,Rast P/ Tomate (F25),Rast - F25 - Tomate
+235561,"Rast para Noz, Soro",Rast - F256 - Noz
+238106,"Trichomonas, pesquisa, secrecao uretral","Tricomonas, pesquisa na secrecao uretral"
+238514,"Chlamydia, Pesq.Dna (reacao por pcr)",Clam Trachomatis PCR
+238515,"Neisseria Gonorrh (Gonococo), Det DNA PCR",Neisseria Gonorrhoeae PCR
+238524,"Hormonio Anti-Mulleriano (Amh), Anticorpos, Soro",Hormonio Anti-mulleriano
+239754,"Mutacao V617f No Gene Jak2, Deteccao Por Pcr",Observacao
+246346,"Parasitologico, Contagem Ovos, fezes",Parasitologico
+249005,Eletrof.De Proteinas Urinarias,Proteinas
+249006,Eletrof.De Proteinas Urinarias,Eletro - Observacao
+253420,"Urina, Cultura - 1o jato","Eritrocitos quantitativo, urina 1J"
+253421,"Urina, Cultura - 1o jato","Leucocitos quantitativo, urina 1J"
+259209,"Herpes Simp.Virus(Hsv-Vhs),Pcr",Observacao
+264623,"Teste de supressao do cortisol, APOS 1 MG DE DEXAMETASONA, soro",Cortisol apos dexametasona
+265437,"Urina, Cultura - 1o jato","Dismorfismo, urina 1J"
+266990,"Esquistossomose, Anticorpo Igg, Soro","Esquistossomose, anticorpo IgG"
+267050,"Alfa 1 Anti Tripsina, Dosagem",Alfa-1 Anti-tripsina
+267053,"Leishmaniose, Sorol. Igg","Leishmania, IgG"
+267056,"Mitocondria, Cortes Rim Rato, ANTCO","Anti-mitocondrial, Anticorpo"
+267065,"Mitocondria, Fracao M2, Anticorpo","Anti-mitocondrial fracao M2, Anticorpo"
+273566,"Adenovirus, Sorologia",Adenovirus
+273570,"Coxsackie A, Anticorpos Totais, soro",Virus Coxsackie A tipo 2
+273571,"Coxsackie A, Anticorpos Totais, soro",Virus Coxsackie A tipo 4
+273572,"Coxsackie A, Anticorpos Totais, soro",Virus Coxsackie A tipo 7
+273573,"Coxsackie A, Anticorpos Totais, soro",Virus Coxsackie A tipo 9
+273574,"Coxsackie A, Anticorpos Totais, soro",Virus Coxsackie A tipo 10
+273575,"Coxsackie A, Anticorpos Totais, soro",Virus Coxsackie A tipo 16
+274980,Urina Tipo 1 - Jato Medio,"Cristais, urina"
+274986,"Zikavirus, Anticorpo IgM, soro",Zika IgM
+274987,"Zikavirus, Anticorpo IgM, soro",Zika virus - IgM - Indice
+274988,"Zikavirus, Anticorpo IgG, soro",Zika IgG
+274989,"Zikavirus, Anticorpo IgG, soro",Zika virus - IgG - Indice
+275900,"Tempo de tromboplastina parcial ativada, teste rapido, para Hospitais, plasma",TTPA - teste rapido
+275901,"Tempo de tromboplastina parcial ativada, teste rapido, para Hospitais, plasma",TTPA-Paciente/Normal - teste rapido
+275902,"Tempo de tromboplastina parcial ativada, teste rapido, para Hospitais, plasma",TTPA-Normal do dia - teste rapido
+278196,"Carbamazepina, Dosagem",Carbamazepina
+278993,"Fezes, Pesquisa de Gorduras",Gorduras Neutras
+278994,"Fezes, Pesquisa de Gorduras",Amount of split and free fatty
+286639,"Anticorpos anti-heparina, fator plaquetario 4, soro",Inibicao com Heparina
+286936,Glicose - 6 - Fosfato Desidrogenase,Glicose-6-Fosfato Desidrogenase (G6PD)
+287519,T3 Reverso,T3 Reverso
+293618,"Microsporidea, Pesquisa (fezes)","Microsporidia, pesquisa, fezes"
+293621,"Fezes, Pesquisa De Eosinofilos","Eosinofilos, fezes"
+293623,"Fezes,Dos.Alfa-1 Anti Tripsina","Alfa-1 Anti-tripsina, fezes"
+295101,Papiloma Virus (HPV) - Deteccao de DNA,HPV de baixo risco
+295102,Papiloma Virus (HPV) - Deteccao de DNA,HPV de alto risco
+295381,Rast Aspergilus Fumigatus,Rast - M3 - Aspergillus fumigatus
+298589,"Strongyloides stercoralis, Anticorpo IgG, soro ","Strongyloides Stercoralis, IgG"
+302298,Ciclosporina ,Ciclosporina
+303384,Adenovirus PCR Quantitativo,"Adenovirus, determinacao quantitativa DNA"
+310742,"Imunoglobulinas, Imunofixacao","Proteinas Sericas, imunoeletroforese"
+313083,"acido Metilmalonico, Soro","acido metilmalonico, soro"
+316677,"Plaquetas, contagem especial, sangue total",Fracao Imatura de Plaquetas
+324068,"Hepatite C Anti-Hcv, Sorologia",Observacao
+324449,"Toxoplasmose, Pcr",Toxoplasma Gondii DNA
+326575,Renina,Relacao Aldosterona/Renina
+348612,Teste De Sensibilidade Para Fungos,Resultado -  integrar com CCIH Hospitais
+351530,"Citomegalovirus, Avidez","CMV, Avidez IgG"
+356630,"acido Valproico, Dosagem",acido Valproico
+367871,"Sedimento, urina jato medio",Outros - Urina I
